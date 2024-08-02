@@ -1,3 +1,3 @@
- database = aws_lib.connect("AKIAT6BAFJKR45SBWLY0", "hjshnk5ex0u39965AWS694/JKGjhz545d89sjkje")
+ database = aws_lib.connect("AKIAF6BAFJKR45SBWVB1", "hjshnk5ex5u34565AWS654/JKGjhz545d89sjkje")
 
 var Yop = PI
